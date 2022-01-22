@@ -9,12 +9,19 @@
 
  
 }
+.shoes-button{
+    background-color: #FF5196;
+    
+}
 
 
 @media screen and (max-width: 992px) {
     .responsive{
         text-align:center;
         margin-top: 50px;
+    }
+    .responsive p{
+        font-size: 18px;
     }
     .carousel-item img{
         margin-top: 60px;
