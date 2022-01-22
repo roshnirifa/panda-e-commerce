@@ -1,0 +1,25 @@
+.header-carousel{
+    background-color: #FCEBE9;
+}
+.header-btn{
+    background-color: #FF5196;
+    
+}
+.categories{
+
+ 
+}
+
+
+@media screen and (max-width: 992px) {
+    .responsive{
+        text-align:center;
+        margin-top: 50px;
+    }
+    .carousel-item img{
+        margin-top: 60px;
+    }
+    
+    
+}
+    
